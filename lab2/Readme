@@ -1,1 +1,4 @@
+由于出现了意料之外的情况，因此格外上传了直到2018年10月28日都仍未解决的工具混乱问题。
 
+当存在有三角形绘图工具的同时添加菱形绘图工具会出现“Error - RtlWerpReportException failed with status code :-1073741823. Will try to launch the process directly”的问题，
+虽然猜测可能是工具栏空间不足不能添加工具，但仍未解决。
